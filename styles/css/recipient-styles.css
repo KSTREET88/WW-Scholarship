@@ -1,0 +1,30 @@
+body {
+    background-image: linear-gradient(.75turn,rgb(102, 105, 126), 60%, white );
+}
+
+.personal-recipient-image {
+    border: 4px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 40px;
+    float: left;
+    height: 604px;
+    width: 448px;
+}
+.personal-recipient-info {
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+    height: 150px;
+    color: rgb(20, 19, 15);
+    text-shadow: 2px 2px 7px rgb(248, 244, 244);
+    font-weight: bold;
+    opacity: 0.8;
+    padding: 5px 20px 20px 40px;
+    font-size: 2rem;
+    line-height: 2rem;
+    border-style: hidden;
+    border-color: black;
+    border-radius: 5px ;
+    background-color:rgb rgb(4, 7, 14) ;
+}
